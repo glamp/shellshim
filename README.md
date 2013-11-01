@@ -1,6 +1,6 @@
 # shellshim
 
-Drop in, C++less replacement for shellscript.
+Drop in, C++less replacement for [shellscript](https://github.com/wballard/shellscript).
 
 ## Installation
 
